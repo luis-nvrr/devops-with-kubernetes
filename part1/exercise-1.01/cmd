@@ -1,0 +1,1 @@
+kubectl create deployment log-output-ex1.01 --image luisnvrr/exercise1.01
